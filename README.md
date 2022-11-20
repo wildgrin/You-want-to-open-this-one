@@ -2,7 +2,6 @@
 <h3 align="center">A self motivated, very active learner and a passionate Frontend Web Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wildgrin" alt="wildgrin" /></a> </p>
 
 - 🔭 I’m currently working on **Stay Woke - News App**
 
