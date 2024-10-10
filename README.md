@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 
-- 🔭 I’m currently working on **Stay Woke - News App**
+- 🔭 I’m currently working on **Pet Shop Management .Net Core Application**
 
 - 🌱 I’m currently learning **ReactJS, tailwindCSS, REST API, etc.**
 
-- 🤝 I’m looking for help with **who is good with Front-End technologies and can teach me few tricks.**
+- 🤝 I’m looking for help with **who is good with DSA and can teach me few tricks.**
 
 - 👨‍💻 All of my projects are available at [anshulraiportfolio.netlify.app](anshulraiportfolio.netlify.app)
 
-- 💬 Ask me about **HTML5, CSS, ReactJS or games, movies, anime, etc. Be it anything!**
+- 💬 Ask me about **C#, DevOps, ReactJS or games, movies, anime, etc. Be it anything!**
 
 - 📫 How to reach me **anshul.jobmail@gmail.com**
 
